@@ -10,7 +10,12 @@ set(CMAKE_EXE_LINKER_FLAGS "-static")
 
 
 
-add_executable(ClionTest main.cpp
+add_executable(RayTracer main.cpp
         vec3.h
         color.h
-        ray.h)
+        ray.h
+        hittable.h
+        sphere.h
+        hittable_list.h
+        rtweekend.h
+        interval.h)

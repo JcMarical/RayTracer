@@ -1,8 +1,8 @@
-# Install script for directory: D:/Project/RayTracer
+# Install script for directory: D:/UnityProject/RayTracer
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/ClionTest")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/RayTracer")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -34,7 +34,7 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "D:/Software/CLion 2023.3.2/bin/mingw/bin/objdump.exe")
+  set(CMAKE_OBJDUMP "D:/Software/CLion 2023.3.4/bin/mingw/bin/objdump.exe")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/Project/RayTracer/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/UnityProject/RayTracer/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

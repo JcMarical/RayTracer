@@ -1,4 +1,3 @@
 # ninja log v5
-3	654	7249813786199463	CMakeFiles/ClionTest.dir/main.cpp.obj	110d34cf174ba189
-655	1191	7249813791425868	ClionTest.exe	ac112c4c372595bd
-1	260	7423437059370369	build.ninja	c06c6a32be6310e4
+2	447	7432755586104899	CMakeFiles/RayTracer.dir/main.cpp.obj	3f442f1a8ed6dd80
+447	860	7432755589659115	RayTracer.exe	bde5f5656432bd9e

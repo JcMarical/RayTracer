@@ -1,3 +1,3 @@
-D:/Project/RayTracer/cmake-build-debug/CMakeFiles/ClionTest.dir
-D:/Project/RayTracer/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Project/RayTracer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/UnityProject/RayTracer/cmake-build-debug/CMakeFiles/RayTracer.dir
+D:/UnityProject/RayTracer/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/UnityProject/RayTracer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
