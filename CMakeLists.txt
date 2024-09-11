@@ -18,4 +18,6 @@ add_executable(RayTracer main.cpp
         sphere.h
         hittable_list.h
         rtweekend.h
-        interval.h)
+        interval.h
+        camera.h
+        material.h)
